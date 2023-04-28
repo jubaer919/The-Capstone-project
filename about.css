@@ -58,7 +58,7 @@ body {
 
 .nav-list {
   visibility: hidden;
-  position: absolute;
+  position: fixed;
   top: 12vh;
   left: 0;
   right: 0;

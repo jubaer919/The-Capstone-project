@@ -198,6 +198,7 @@ If you like this project give it a star ⭐
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank
+- Cindy Shin (author of the original design)
 - Microverse
 - my Code reviewers
 
